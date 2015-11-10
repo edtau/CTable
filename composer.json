@@ -1,5 +1,5 @@
 {
-    "name": "Edtau/ctable",    
+    "name": "edtau/ctable",    
     "type": "library",
     "description": "Classes for HTML Tables",
     "keywords": ["html", "table"],
